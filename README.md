@@ -1,4 +1,4 @@
-# KitchenChaos
+# Kitchen Chaos
 Kitchen cooking assembly game.  Race the clock and try to finish as many recipes as you can!
 
 # Where to download?
